@@ -12,8 +12,8 @@ A Natural Language Processing model trained with over 1,00,000 (1 Lakh) names is
  ```bash
     git clone https://github.com/Gowthamchandu307/Gender-predictor.git
     cd Gender-predictor
-    ```
-4. Install the Packages:
+    
+3. Install the Packages:
  ```bash
     pip install -r requirements.txt
     
