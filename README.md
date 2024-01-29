@@ -9,13 +9,14 @@ A Natural Language Processing model trained with over 1,00,000 (1 Lakh) names is
 
 1. Drop a ⭐ on the Github Repository.
 2. Clone the Repo by going to your local Git Client and pushing in the command:
-'''bash
-https://github.com/Gowthamchandu307/Gender-predictor.git
-'''
-3. Install the Packages:
+ ```bash
+    git clone https://github.com/Gowthamchandu307/Gender-predictor.git
+    cd Gender-predictor
+    ```
+4. Install the Packages:
  ```bash
     pip install -r requirements.txt
-    ```
+    
 
 ## 📧Contact:-
 
